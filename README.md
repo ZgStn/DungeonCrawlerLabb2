@@ -1,5 +1,6 @@
 **Dungeon Crawler – Lab 2**
 A simplified Dungeon Crawler built as a C# console application. Players explore a predefined dungeon, fight enemies, and experience a turn-based roguelike inspired game using core object-oriented principles.
+
 **Features**
 - Object-Oriented Design:
  Abstract base class LevelElement with derived LivingElement for all entities having health, movement, and combat (Player, Rat, Snake).
